@@ -1,7 +1,7 @@
 # Python based SpeedTest CLI by [Chamod Savinda](https://github.com/DARKSOULx69)  
 
 # Usage
-> $ pip install speedtest-cli
+> $ pip install speedtest-cli  
 > $ python main.py  
 
 # Contact Me
